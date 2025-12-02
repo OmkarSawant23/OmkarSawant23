@@ -24,7 +24,7 @@ Welcome to my GitHub! I’m a passionate **Data Scientist** with a **Master’s 
 **Languages:** Python, SQL, R
 **Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Hugging Face, Statsmodels
 **Data Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI
-**Databases & Cloud:** MySQL, Snowflake, AWS, GCP (familiarity)
+**Databases & Cloud:** MySQL, AWS, GCP (familiarity)
 **Other Tools:** Git, Jupyter, Streamlit, Excel, Airflow (conceptual)
 
 ---
